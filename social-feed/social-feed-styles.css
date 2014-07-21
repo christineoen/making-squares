@@ -1,0 +1,91 @@
+.content {
+	width: 100%;
+}
+
+
+/*====HEADER STYLES====*/
+
+.header {
+	background-color: #DDD;
+	width: 100%;
+	height: 50px;
+}
+
+
+
+/*====LEFT SIDEBAR STYLES====*/
+
+.left {
+	height: 500px;
+	width: 10%;
+	float: left;
+	background-color: #DDD;
+	margin-right: 2%;
+	margin-top: 0.5%;
+}
+
+
+/*====FEED STYLES====*/
+
+.hero {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.feed {
+	width: 76%;
+	margin: 0 auto;
+	float: left;
+}
+
+.feed-item {
+	width: 100%;
+}
+
+.icon {
+	width: 50px;
+	height: 50px;
+	background-color: #DDD;
+	float: left;
+	padding-right: 5%;
+	margin: 2% 0;
+}
+
+.tweet {
+	width: 93%;
+	background-color: #DDD;
+	margin: 2% 0 2% 2%;
+	float: left;
+	height: 50px;
+}
+
+
+/*====RIGHT SIDEBAR STYLES====*/
+
+.right-sidebar {
+	float: right;
+	width: 10%;
+	margin-top: 0.5%;
+}
+
+.top {
+	background-color: #DDD;
+	height: 150px;
+}
+
+.bottom {
+	background-color: #DDD;
+	height: 300px;
+	margin-top: 10px;
+}
+
+.right {
+	/*margin-left: 2%;*/
+}
+
+
+
+
+
+
+
